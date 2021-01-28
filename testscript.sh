@@ -4,3 +4,4 @@ echo "Par Numberone is $NUMBERONE"
 echo "Par Numbertwo is $NUMBERTWO"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
+echo "Commit Trigger Successful"
